@@ -2,8 +2,6 @@
 
 ##
 
-- 📚 Estudando JAVA| JavaScript| HTML| CSS| MySQL
-
 - 😄 Pronomes: ela/she
 
 <div align="center">

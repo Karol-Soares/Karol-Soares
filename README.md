@@ -2,7 +2,7 @@
 
 ##
 
-- 😄 Pronomes: ela/she
+- 😄 Pronomes: ela/dela - she/her
 
 <div align="center">
   <a href="https://github.com/karol-soares">

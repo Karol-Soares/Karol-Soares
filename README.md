@@ -1,4 +1,6 @@
-### Oiir! Sou a Karol, muito prazer..
+### Oiir! Sou a Karol, muito prazer.. 🖖🏼
+
+##
 
 - 📚 Estudando JAVA| JavaScript| HTML| CSS| MySQL
 

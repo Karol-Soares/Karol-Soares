@@ -1,12 +1,16 @@
 ### Oiir! Sou a Karol, muito prazer.. 🖖🏼
 
-##
+
+<img align="right" width="350" height="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif">
 
 - 😄 Pronomes: ela/dela - she/her
 
 <div align="center">
   <a href="https://github.com/karol-soares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karol-soares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <br>
+    <br>
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karol-soares&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   

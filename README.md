@@ -10,6 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karol-soares&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
+  ## Learning  
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Karol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Karol-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -21,6 +23,8 @@
 </div>
   
   ##
+  
+  ## Meus contatos
   
 <div> 
   <a href = "mailto:karolinasoares276@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
